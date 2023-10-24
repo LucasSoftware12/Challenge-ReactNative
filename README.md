@@ -1,12 +1,12 @@
----
 
-          Challenge ReactNative
+
+Challenge ReactNative
 
 Este proyecto es un ejemplo de una aplicación desarrollada en React Native que consta de múltiples vistas.
 
----
 
-          Cómo empezar
+
+Cómo empezar
 
 Para ejecutar este proyecto en tu máquina local, asegúrate de cumplir con los siguientes prerrequisitos:
 
@@ -16,23 +16,23 @@ Sigue estos pasos para configurar el proyecto:
 
 1. Clona este repositorio en tu máquina:
 
-   git clone https://github.com/LucasSoftware12/Challenge-ReactNative.git
+             git clone https://github.com/LucasSoftware12/Challenge-ReactNative.git
 
 2. Navega al directorio del proyecto:
 
-   cd Challenge-ReactNative
+             cd Challenge-ReactNative
 
 3. Instala las dependencias:
 
-   npm install
+             npm install
 
 4. Inicia la aplicación:
 
-   npm start
+             npm start
 
 ---
 
-          Uso
+Uso
 
 La aplicación consta de tres vistas:
 
