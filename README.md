@@ -35,8 +35,10 @@ Sigue estos pasos para configurar el proyecto:
 Uso
 
 Credenciales: 
-Usuario: admin
-Contraseña: admin
+
+- Usuario: admin
+
+- Contraseña: admin
 
 La aplicación consta de tres vistas:
 
