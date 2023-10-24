@@ -34,6 +34,10 @@ Sigue estos pasos para configurar el proyecto:
 
 Uso
 
+Credenciales: 
+Usuario: admin
+Contraseña: admin
+
 La aplicación consta de tres vistas:
 
 - **Login:** Permite a los usuarios iniciar sesión con un nombre de usuario y una contraseña.
@@ -41,3 +45,5 @@ La aplicación consta de tres vistas:
 - **Home:** Muestra una lista de personas obtenidas de una API externa.
 
 - **User Details:** Muestra información detallada sobre una persona en particular.
+
+- ![Texto alternativo](https://github.com/LucasSoftware12/Challenge-ReactNative/blob/main/images/Home.PNG)
