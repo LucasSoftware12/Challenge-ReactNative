@@ -145,8 +145,8 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
   separator: {
-    height: 2, // Altura de la línea divisoria
-    backgroundColor: '#ccc', // Color de la línea divisoria
+    height: 2,
+    backgroundColor: '#ccc',
     marginVertical: 1,
   },
   deleteButton: {
